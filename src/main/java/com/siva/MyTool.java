@@ -65,6 +65,6 @@ public class MyTool
 	pContainer.add(to);
 	
     JOptionPane.showMessageDialog(frame, new JScrollPane(pContainer), option + " as ", JOptionPane.INFORMATION_MESSAGE);
-    System.exit(0);
+    System.exit(0); 
   }
 }
